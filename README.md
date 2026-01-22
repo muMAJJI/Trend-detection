@@ -26,8 +26,6 @@ K-Means clustering is used as an unsupervised learning technique to identify hom
   - Downtrend
   - Range
   - Uptrend
-- Market regimes emerge directly from the data without predefined labels
-- Suitable for exploratory regime detection
 
 ---
 
